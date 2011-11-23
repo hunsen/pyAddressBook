@@ -1,2 +1,5 @@
-project:pyAddressBook
-author:hunsen.lu<at>gmail.com
+Application Name: pyAddressBook
+Author: hunsen.lu@gmail.com
+Description: This simple address book application was written in python3.2, this application runs under command line
+mode. it has adding, modification, search, and delete a contact function. The contact info saves in a binary file in
+the code directory named 'addressbook.dat'.
